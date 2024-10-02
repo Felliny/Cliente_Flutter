@@ -6,7 +6,7 @@ Projeto de cadastro e consulta de clientes para Android e IOS.
 
 - Dart
 - Flutter
-- Firebase
+- Firebase - Firestore
 
 
 ## Imagens
