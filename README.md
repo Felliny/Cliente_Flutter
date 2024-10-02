@@ -1,18 +1,17 @@
-# teste1
+# Cliente_Flutter
 
-testando
+Projeto de cadastro e consulta de clientes para Android e IOS.
 
-## Getting Started
+## Tecnologias:
 
-This project is a starting point for a Flutter application.
+- Dart
+- Flutter
+- Firebase
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Imagens
+  
+  
+![projeto flutter cliente](https://github.com/user-attachments/assets/abdd0840-b813-4dfd-8bf8-19a9365f20e8)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Cliente_Flutter" 
-"# Cliente_Flutter" 
+![projeto flutter cliente 2](https://github.com/user-attachments/assets/a86eb2f8-110a-4a11-ad4e-f50e4eca67d5)
