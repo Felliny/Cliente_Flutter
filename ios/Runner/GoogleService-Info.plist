@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDsSNOB3BRlUqbYvyyQI7R2vj5_s8hsWTA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>553579092418</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.teste1</string>
+	<key>PROJECT_ID</key>
+	<string>cadastroclientesflet</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cadastroclientesflet.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:553579092418:ios:653b699d1a07718d0f1e5b</string>
+	<key>DATABASE_URL</key>
+	<string>https://cadastroclientesflet-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
